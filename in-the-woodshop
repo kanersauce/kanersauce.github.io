@@ -1,1 +1,46 @@
+<head>
+  <meta charset="UTF-8">
+  <title>In the Woodshop</title>
+  <style>
+    body {
+      font-family: Georgia, serif;
+      font-size: 18px;
+      line-height: 1.6;
+      max-width: 700px;
+      margin: 60px auto;
+      padding: 0 20px;
+      color: #000;
+      background-color: #fff;
+    }
 
+    nav {
+      text-align: center;
+      margin-bottom: 2rem;
+    }
+
+    nav a {
+      margin: 0 12px;
+      text-decoration: none;
+      font-weight: bold;
+      color: #00f;
+    }
+  </style>
+</head>
+<body>
+
+  <nav>
+    <a href="index.html">Home</a>
+    <a href="books.html">Books I've Read</a>
+    <a href="resume.html">Resume</a>
+  </nav>
+
+  <h1>Books I've Read</h1>
+  <ul>
+    <li><strong>The Death and Life of Great American Cities</strong> – Jane Jacobs</li>
+    <li><strong>The Dream Machine</strong> – M. Mitchell Waldrop</li>
+    <li><strong>Working in Public</strong> – Nadia Eghbal</li>
+    <li><strong>Zero to One</strong> – Peter Thiel</li>
+  </ul>
+
+</body>
+</html>
